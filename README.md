@@ -1,37 +1,31 @@
-# Proyecto-Inventario-INF-331
+# 🗃️ Gestión de Inventario para Bodega
 
-Foobar is a Python library for dealing with word pluralization.
+Una aplicación sencilla y funcional para que pequeños emprendedores puedan llevar el control de su inventario. Permite crear, consultar, actualizar y eliminar productos, gestionar el stock, generar reportes y proteger el acceso mediante autenticación.
 
-## Installation
+## 📦 Tabla de Contenidos
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Cómo Contribuir](#cómo-contribuir)
+- [Registro de Cambios](#registro-de-cambios)
+- [Licencia](#licencia)
+- [Créditos](#créditos)
+- [Enlace al Repositorio](#enlace-al-repositorio)
+
+---
+
+## 🚀 Instalación
+
+### Requisitos
+
+- Python 3.10 o superior
+- Git
+- Entorno virtual (opcional, pero recomendado)
+
+### Instrucciones
+
+1. Clona este repositorio:
 
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+git clone https://github.com/tuusuario/inventario-bodega.git
+cd inventario-bodega
