@@ -30,11 +30,14 @@ Una aplicación sencilla y funcional para que pequeños emprendedores puedan lle
 git clone https://github.com/tuusuario/inventario-bodega.git
 cd inventario-bodega
 
+```
+
 2. Crea un entorno virtual:
 
 ```bash
 python -m venv env
 source env/bin/activate  # En Windows: env\Scripts\activate
+```
 
 3. Instala las dependencias:
 
@@ -42,11 +45,15 @@ source env/bin/activate  # En Windows: env\Scripts\activate
 
 pip install -r requirements.txt
 
+```
+
 4. Corre la aplicación:
 
 ```bash
 
 python run.py
+
+```
 
 ## 🛠️ Uso
 Al iniciar la aplicación podrás:
