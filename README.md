@@ -1,4 +1,4 @@
-# 🗃️ Gestión de Inventario para Bodega
+# 🗃️ Gestión de Inventario  REPO SECUNDARIA!!
 
 Una aplicación sencilla y funcional para que pequeños emprendedores puedan llevar el control de su inventario. Permite crear, consultar, actualizar y eliminar productos, gestionar el stock, generar reportes y proteger el acceso mediante autenticación.
 
