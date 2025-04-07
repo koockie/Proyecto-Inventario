@@ -39,19 +39,12 @@ python -m venv env
 source env/bin/activate  # En Windows: env\Scripts\activate
 ```
 
-3. Instala las dependencias:
-
-```bash
-
-pip install -r requirements.txt
-
-```
 
 4. Corre la aplicación:
 
 ```bash
 
-python run.py
+python main.py
 
 ```
 
@@ -76,29 +69,17 @@ Al iniciar la aplicación podrás:
 
 - - Productos agotados
 
-### 📝 Ejemplo de producto
+### 📝 Ejemplo de agregar producto producto
 - Nombre: Audífonos Bluetooth
 
 - Descripción: Audífonos inalámbricos con cancelación de ruido
 
 - Cantidad: 15
 
-- Precio unitario: $25.00
+- Precio unitario: 25.000
 
 - Categoría: Electrónica
 
-## 🤝 Cómo Contribuir
-¡Gracias por tu interés en contribuir! Para hacerlo:
-
-- Haz un fork del proyecto
-
-- Crea tu rama de trabajo (git checkout -b feature/nueva-funcionalidad)
-
-- Haz commit de tus cambios (git commit -m 'Agrega nueva funcionalidad')
-
-- Haz push a tu rama (git push origin feature/nueva-funcionalidad)
-
-- Abre un Pull Request
 
 ### Reglas de colaboración
 - Usa buenas prácticas de programación
@@ -110,14 +91,8 @@ Al iniciar la aplicación podrás:
 - No push directo a main (protegida)
 
 ## 📋 Registro de Cambios
-Ver el archivo CHANGELOG.md para más detalles sobre lo que ha cambiado recientemente.
+Ver el archivo app.log para más detalles sobre lo que ha cambiado recientemente.
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
-## 👥 Créditos
-Proyecto desarrollado por el equipo de [nombre de grupo/curso].
-Supervisado por [nombre del profesor o institución].
 
 ## 🔗 Enlace al Repositorio
 👉 https://github.com/tuusuario/inventario-bodega
